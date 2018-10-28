@@ -1,0 +1,267 @@
+right 1 add 15 			
+	
+while
+	left 1 add 1
+	right 8 add 10
+	left 7 sub 1
+end 
+
+right 1 add 5
+
+while 
+	left 1 add 9
+	right 1 sub 1
+end 
+
+add 1
+right 6 add 1
+
+while 
+	left 2 add 3
+	while 
+		right 2
+		while sub 1 left 1 end 
+		left 1
+		while right 1 end 
+		left 1 sub 1
+	end
+	right 2
+	while 
+		right 1 add 1 
+		right 1
+	end 
+	left 1
+	while left 1 end 
+	right 1
+end 
+
+right 1 
+
+while 
+	while 
+		sub 1
+		right 4
+		add 1 
+		left 5
+	end 
+	right 3 add 3
+	right 1 sub 1
+end 
+
+left 1
+
+while left 4 end 
+
+left 8 add 1
+
+while 
+	sub 1 
+	right 12
+	while
+		left 1 add 1
+		while 
+			sub 1
+			right 4 add 1
+			left 4
+		end 
+		right 5
+	end 
+	left 5
+	while 
+		right 5
+		while 
+			left 4 add 1
+			right 4 sub 1
+		end
+		left 5 sub 1
+		while 
+			left 2 add 10
+			right 2 sub 1
+		end 
+		right 3
+		while 
+			left 2
+			while 
+				left 1 add 1
+				left 2 add 1
+				right 3 sub 1
+			end
+			left 1
+			while 
+				right 1 add 1 
+				left 1 sub 1
+			end 
+			left 1 add 2
+			left 2 add 1
+			right 6 sub 1
+		end 
+		
+		left 2
+		while sub 1 end 
+		left 2 sub 1
+		left 1
+		
+		while 
+			sub 1
+			right 2 add 1
+			left 1 sub 1
+			while right 3 end 
+			right 1
+			while 
+				while 
+					left 1 add 1
+					right 1 sub 1
+				end 
+				right 1 add 1
+				right 2
+			end 
+			left 5 
+		end 
+		right 1
+		while sub 1 end 
+		right 1 add 1
+		left 3 sub 1
+		while 
+			right 2 add 1
+			left 2 sub 1
+		end 
+		left 1
+	end 
+	left 4 add 1
+	right 8
+	while sub 1 end 
+	right 1
+	while 
+		left 3 add 1
+		right 3 sub 1
+	end 
+	left 2 add 10
+	left 1
+	while 
+		sub 1
+		right 2 add 2
+		left 1 sub 1
+		while left 3 end 
+		left 1
+		while 
+			while 
+				left 1 add 1
+				right 1 sub 1
+			end 
+			right 1 add 1
+			right 2
+		end 
+		left 5
+	end
+	right 1
+	while sub 1 end 
+	right 1 add 1
+	right 1
+	while 
+		left 2 add 1
+		left 1 add 1
+		right 3 sub 1
+	end 
+	left 4 add 1
+	left 1 add 1
+	right 2
+	while 
+		sub 1
+		while 
+			sub 1
+			while 
+				sub 1
+				while 
+					sub 1
+					while 
+						sub 1
+						while 
+							sub 1
+							while
+								sub 1
+								while 
+									sub 1
+									while 
+										sub 1
+										left 1 sub 1
+										right 1 
+										while 
+											sub 1
+											left 1 add 1
+											left 1 sub 1
+											right 2
+										end 
+									end 
+								end 
+							end 
+						end 
+					end 
+				end 
+			end 
+		end 
+	end
+	left 1
+	while 
+		add 5
+		while 
+			left 3 add 8
+			left 1 add 8
+			right 4 sub 1
+		end 
+		left 4 add 1
+		left 1 sub 1
+		right 4
+		
+		while 
+			right 1 add 1
+			left 3 add 9
+			left 1 sub 1
+			right 3 sub 1
+		end 
+		left 5
+		while 
+			right 2 add 1
+			left 2 sub 1
+		end
+		add 1
+		left 1
+		while 
+			sub 1 right 1
+			sub 1 left 1
+		end 
+		right 1
+		while 
+			right 2 write
+			left 4
+			while 
+				add 1 write 
+				while sub 1 end 
+			end 
+			right 2 sub 1
+		end 
+		right 1
+		while 
+			right 2 write 
+			left 2 sub 1
+		end 
+		right 1
+		while sub 1 end 
+		right 1
+		while sub 1 end 
+		right 3
+		while 
+			right 2
+			while 
+				left 8 add 1
+				right 8 sub 1
+			end 
+			left 2 sub 1
+		end 
+	end
+	right 2 
+	while sub 1 end 
+	left 3
+	while sub 1 end 
+	left 8
+end 
+add 10 write
