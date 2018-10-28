@@ -7,6 +7,7 @@ EasyBrainFuck is a BrainFuck variant that aims to be readable and easier to code
 ### Features
 #### Keywords
 Since the aim of EasyBrainFuck is readability, EasyBrainFuck provides keywords instead of the original symbols.
+
 | Keyword | Equivalent BrainFuck Symbol |
 | :---: | :---: |
 | `left` | `<` |
