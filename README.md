@@ -97,12 +97,12 @@ end
 ### Compiling
 #### Lua
 Just load the module
-```
+```lua
 local ebf = require "EasyBrainFuck"
 ```
 
 Then to compile
-```
+```lua
 ebf(myProgramString, cellSize, memorySize)
 ```
 Cell Size defaults at 8-bit. Acceptable values includes 8, 16 or 32-bit.
